@@ -1,4 +1,4 @@
-Projeto Parcial de cadeira De Estrutura de dados
+Projeto Parcial da cadeira De Estrutura de dados
 </head>
 <body>
     <h1>Projeto Registrador de Usuarios Simples</h1>
