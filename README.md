@@ -1,3 +1,4 @@
+Projeto Parcial de cadeira De Estrutura de dados
 </head>
 <body>
     <h1>Projeto Registrador de Usuarios Simples</h1>
@@ -7,7 +8,7 @@
         Imagens do projeto:
     </h2>
     <picture>
-        <img src="Screenshot_66.png" alt="">
+        <img src="Properties./"Screenshot_66.png alt="">
     </picture>
 </body>
 </html>
