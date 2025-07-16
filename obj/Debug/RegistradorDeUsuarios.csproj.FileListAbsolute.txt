@@ -1,0 +1,11 @@
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\bin\Debug\RegistradorDeUsuarios.exe.config
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\bin\Debug\RegistradorDeUsuarios.exe
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\bin\Debug\RegistradorDeUsuarios.pdb
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.csproj.AssemblyReference.cache
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.Properties.Resources.resources
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.Form1.resources
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.csproj.GenerateResource.cache
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.csproj.CoreCompileInputs.cache
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.exe
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.pdb
+D:\Projetos Windows Form c#\Aula060\Aula061\WindowsForm\Praticar\Registrador De Usuarios\RegistradorDeUsuarios\RegistradorDeUsuarios\obj\Debug\RegistradorDeUsuarios.Windows.F_Dados.resources
