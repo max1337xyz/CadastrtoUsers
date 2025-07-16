@@ -8,7 +8,7 @@ Projeto Parcial de cadeira De Estrutura de dados
         Imagens do projeto:
     </h2>
     <picture>
-        <img src="Properties./"Screenshot_66.png alt="">
+        <img src="Screenshot_66.png" alt="">
     </picture>
 </body>
 </html>
